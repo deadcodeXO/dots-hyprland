@@ -32,6 +32,12 @@
   <summary>Instructions</summary>
     
    - **Automatic**, but guided and transparent, installation for Arch(-based) Linux:
+   Update your system first, then install the requirements.
+   ```base
+   sudo yay -Syyu
+   sudo yay -S debugedit base-devel
+   ```
+   Install using the one-line web installer.
    ```bash
    bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh")
    ```
