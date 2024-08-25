@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>【 end_4's Hyprland dotfiles 】</h1>
+    <h1>【 end_4 and deadcode's hyprland dotfiles 】</h1>
     <h3></h3>
 </div>
 
@@ -33,7 +33,7 @@
     
    - **Automatic**, but guided and transparent, installation for Arch(-based) Linux:
    Update your system first, then install the requirements.
-   ```base
+   ```bash
    sudo yay -Syyu
    sudo yay -S debugedit base-devel
    ```
